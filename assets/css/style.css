@@ -24,7 +24,7 @@ header h1 {
 header h1 .seo {
   color: #d9dcd6;
 }
-
+/* navigation links in top right corner */
 nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -76,6 +76,7 @@ main {
   margin-left: 20px;
 }
 
+/* Right side collumn  */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -86,7 +87,7 @@ aside {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/* .benifit provides format for benifits offered within the aside element */
 .benefit {
   margin-bottom: 32px;
   color: #ffffff;
@@ -121,7 +122,7 @@ aside {
   font-size: 36px;
 }
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -129,6 +130,6 @@ aside {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
