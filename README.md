@@ -19,10 +19,15 @@ Refactored code for SEO purposes and to meet accessability standards. Was also a
 
 To make purely ascetic changes that would optimize site apearing in search engine results as organize code in adherence with stardard practices. Furthermore, code was streamlined and symplified to make reading and modification of code simpiler in the future.
 
-#### Links
+### Links
 
 **GitHub Repository**
-https://github.com/Widewanderer/Horiseon.git
+https://widewanderer.github.io/Horiseon-SEO/
 
 **Horiseon Website**
 file:///Users/tysontrotz/Desktop/VBootcamp/Bootcamp1/CHALLENGES/Horiseon/index.html#social-media-marketing
+
+### Screenshots
+
+![Horiseon Website](./assets/images/TopScreenshotHoriseon.png)
+![Horiseon Website](./assets/images/BottomScreenshotHoriseon.png)
